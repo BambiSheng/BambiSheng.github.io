@@ -3,13 +3,15 @@ description: Welcome to BambiBlog!
 author: Bambi Sheng
 avatar: /logo.jpg
 email: bambisheng@outlook.com
+location: Beijing
+
 skin: midnight
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-paginate
-
+subscribe: false
 paginate: 10
 
 # Uncomment the below line and set the tracking ID for enabling Google Analytics
@@ -29,15 +31,10 @@ exclude:
 
 # Jekyll SEO Tag (Optional)
 # =========================
-twitter:
-  username: ngzhio
-  card: summary
 logo: logo.jpg
 social:
-  name: Shangzhi Huang
+  name: Bambi Sheng
   links:
-    - https://twitter.com/ngzhio
-    - https://www.facebook.com/ngzhio
-    - https://github.com/ngzhio
+    - https://github.com/BambiSheng
 google_site_verification: u4WXQl0Eu66rsQo2kRdCNx
 lang: en
