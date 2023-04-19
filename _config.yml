@@ -5,7 +5,6 @@ avatar: /logo.jpg
 email: bambisheng@outlook.com
 location: Beijing
 
-skin: midnight
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
